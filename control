@@ -1,7 +1,7 @@
 Package: com.sttt.qqmail
 Name: QQ邮箱 NoAds
 Author: sttt
-Description: QQmail NoAds was tested on version 6.5.0
+Description: QQmail NoAds
 Depends: mobilesubstrate
 Maintainer: sttt
 Architecture: iphoneos-arm
