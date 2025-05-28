@@ -5,3 +5,12 @@
 }
 %end
 
+%hook FMAdMailListController
+- (void)loadAuctionAd {
+}
+%end
+
+%hook FMAdMailListController
+- (void)loadContractAd {
+}
+%end
